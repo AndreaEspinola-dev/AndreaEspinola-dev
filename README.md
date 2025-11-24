@@ -24,7 +24,7 @@ Busco mi primera oportunidad laboral formal como **Full Stack Developer Junior**
 - Python  
 - PostgreSQL
 - java
-- python
+
 
 ### **Herramientas**
 - Git & GitHub  
