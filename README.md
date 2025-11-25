@@ -3,7 +3,7 @@
 ### 🚀 Desarrolladora Full Stack Junior  
 **React · Firebase · Node.js · JavaScript · Python**
 
-Soy Analista Programadora con experiencia en desarrollo web, automatización de procesos, validación de datos y bots de scraping.  
+Soy Analista Programadora con experiencia en desarrollo web, automatización de procesos. 
 Me destaco por mi capacidad de adaptabilidad, aprendizaje rápido y enfoque en resolver problemas de forma eficiente.
 
 Busco mi primera oportunidad laboral formal como **Full Stack Developer Junior**, donde pueda aportar valor y seguir creciendo profesionalmente.
