@@ -1,4 +1,4 @@
-# 👋 Hola, soy Andrea Espínola
+#  Hola, soy Andrea Espínola
 
 ### 🚀 Desarrolladora Full Stack Junior  
 **React · Firebase · Node.js · JavaScript · Python**
@@ -46,7 +46,20 @@ Aplicación web completa para la gestión de inventario, desarrollada durante mi
 - Autenticación con roles (admin / operador)  
 - UI responsive con TailwindCSS
 
+---
 
+📚 Formación y cursos destacados
+
+Analista Programador – Instituto Profesional Santo Tomás
+
+-Programación Web (HTML, CSS, JavaScript)
+-Arquitectura de Sistemas y Diseño de Software
+-Computación en la Nube
+-Programación .NET
+-Programación Android
+-Bases de Datos (modelado, SQL)
+-Sistemas Operativos (Windows / Linux)
+-Integración de Competencias y Proyectos Colaborativos de Innovación
 
 
 ---
@@ -55,7 +68,7 @@ Aplicación web completa para la gestión de inventario, desarrollada durante mi
 - Crear mi portafolio web  
 - Mejorar mi nivel de inglés (básico–intermedio)  
 - Perfeccionar Node.js y SQL
-- Cursando para certificacion .NET C#
+- Terminar curso certificacion .NET C#
 - Contribuir a proyectos open-source  
 
 ---
